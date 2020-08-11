@@ -66,3 +66,14 @@ git push
 - Then run the deploy script
 
 `npm run deploy`
+
+![deploy](imgs/7_dep.png)
+
+- Navigate to the code repo on github, get into the settings then find the "Github pages Section"
+- Now for branch options you have the choice of using `gh-pages` select that then click "Save"
+
+![deploy](imgs/8_dep.png)
+
+## You are deployed!
+
+- If you follow the github pages link and its still showing your readme just wait a minute.
